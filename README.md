@@ -1,11 +1,11 @@
 # TypeScript
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
-Fullstack Developer Bootcamp - TypeScript Learning
+Fullstack Developer Bootcamp [@GoIT](https://goit.global/us/) - ![Alt text](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white) Module
 
 ## Overview
 
-This repository contains my second homework from the Fullstack Developer Bootcamp, where I am currently learning TypeScript. As a part of my homework assignments, I am exploring the fundamentals of TypeScript to enhance my skills in building robust and scalable web applications.
+This repository contains my first homework from the Fullstack Developer Bootcamp, where I am currently learning TypeScript. As a part of my homework assignments, I am exploring the fundamentals of TypeScript to enhance my skills in building robust and scalable web applications.
 
 ## Learning Objectives
 
@@ -16,7 +16,6 @@ This repository contains my second homework from the Fullstack Developer Bootcam
 ## Repository Structure
 
 - `src/`: Contains the TypeScript source code for various assignments.
-- `dist/`: Output directory for compiled TypeScript files.
 - Other directories and files related to specific projects or exercises.
 
 ## Languages and Tools:
