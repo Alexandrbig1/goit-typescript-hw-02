@@ -5,7 +5,7 @@ Fullstack Developer Bootcamp [@GoIT](https://goit.global/us/) - ![Alt text](http
 
 ## Overview
 
-This repository contains my first homework from the Fullstack Developer Bootcamp, where I am currently learning TypeScript. As a part of my homework assignments, I am exploring the fundamentals of TypeScript to enhance my skills in building robust and scalable web applications.
+This repository contains my second homework from the Fullstack Developer Bootcamp, where I am currently learning TypeScript. As a part of my homework assignments, I am exploring the fundamentals of TypeScript to enhance my skills in building robust and scalable web applications.
 
 ## Learning Objectives
 
