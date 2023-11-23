@@ -1,7 +1,3 @@
-/*
-  Як ви вкажете типи для аргументів і значень цих функцій, що повертаються?
-*/
-
 function showMessage(message): void {
   console.log(message);
 }
